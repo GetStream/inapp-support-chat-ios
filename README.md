@@ -1,4 +1,4 @@
-# 💬 Sample App with In-App Support Chat [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGetStream%2Ftwitch-example-ios)](https://twitter.com/intent/tweet?text=Want%20to%20build%20an%in-app%20support%20system%20for%20your%20iOS%20app%3F%20Learn%20how%3A&url=https%3A%2F%2Fgithub.com%2FGetStream%2Finapp-support-chat-ios)
+# 💬 Build In-App Support Chat for iOS with Stream [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGetStream%2Ftwitch-example-ios)](https://twitter.com/intent/tweet?text=Want%20to%20build%20an%in-app%20support%20system%20for%20your%20iOS%20app%3F%20Learn%20how%3A&url=https%3A%2F%2Fgithub.com%2FGetStream%2Finapp-support-chat-ios)
 
 <img align="right" src="https://i.imgur.com/T7AnZmR.png" width="50%" />
 
