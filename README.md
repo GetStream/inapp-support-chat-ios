@@ -4,7 +4,7 @@
 
 ## 📚 Tutorial
 
-This repository contains the completed Xcode project following the [How to Implement In-App Support Chat on iOS](https://comingsoon/) tutorial. You should read it before trying to run this project as it contains it may contain useful information not present in this README.
+This repository contains the completed Xcode project following the [How to Implement In-App Support Chat on iOS](https://getstream.io/blog/inapp-support-chat-ios) tutorial. You should read it before trying to run this project as it contains it may contain useful information not present in this README.
 
 ## ⚙️ Setup
 
