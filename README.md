@@ -19,7 +19,7 @@ You should place your [Stream Chat](https://getstream.io/chat) credentials in [`
 
 ### Dependencies
 
-To install the dependencies, use CocoaPods in the TelemedicineApp folder:
+To install the dependencies, use CocoaPods in the InAppSupportChatApp folder:
 
 ```bash
 $ pod install --repo-update
