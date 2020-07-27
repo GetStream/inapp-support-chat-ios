@@ -15,7 +15,7 @@ This repository contains the completed Xcode project following the [How to Imple
 
 ### Configuration
 
-You should place your [Stream Chat](https://getstream.io/chat) credentials in [`AppDelegate.swift`](InAppSupportChatApp/InAppSupportChatApp/AppDelegate.swift#L18).
+You should place your [Stream Chat](https://getstream.io/chat/) credentials in [`AppDelegate.swift`](InAppSupportChatApp/InAppSupportChatApp/AppDelegate.swift#L18).
 
 ### Dependencies
 
